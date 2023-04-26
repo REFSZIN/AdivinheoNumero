@@ -17,7 +17,7 @@ POC in React Application
 # Description
 
 Frontend application ReactJs + StyledComponents. </br>
-
+     <img height="300px" src="https://user-images.githubusercontent.com/95008410/234696163-dbc29f0d-6fdd-4b81-8597-6de40de450cc.png">
 </br>
 
 
